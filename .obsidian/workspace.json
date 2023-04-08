@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "4094c26aba6b0dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d740cffca321a5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12552fb362e9298e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0403ba267e4b81d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "32244ae504f05413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbd9fd862426b11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c6505a0a0087d3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0caba0cc0d5683c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "172bd7866b199c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "15872f3a2bcebf0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83eaf96c78002acd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bd42eeda5366da3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ff03e0192790c2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aaab488429e52e20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12552fb362e9298e",
+  "lastOpenFiles": [
+    "a金融数据挖掘课题/工作日志/1124工作日志.md",
+    "a金融数据挖掘课题/工作日志/1128工作日志.md",
+    "PyProgram/Database Table/Code1101.pdf"
+  ]
+}

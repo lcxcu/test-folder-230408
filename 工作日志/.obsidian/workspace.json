@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "a882ae672f3aae7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d750553989d57854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1685725caea386e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志markdown/0402工作日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2f36eb620d929de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志markdown/0408工作日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91402133e2b3543c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志markdown/0404工作日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d3be5e235d9d89d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7ff3ff63dc7766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d153934c564f3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4fba8a02c3b3e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ce78d6de4c6a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa977fb3a62941f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0cc715d82c3241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954868f5ec73919e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日志markdown/0408工作日志.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23639cf15b5160c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日志markdown/0408工作日志.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1b0e90a2fee3c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4aa551833e3c510",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日志markdown/0408工作日志.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1d2abfc96a06fa97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edd7a7f74145be5",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "591211a869dc458b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcfe44a6f391223e",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1aaf4d0dbcba764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc7cc5c1acc562c",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e637c76bb2ab997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69b9fd10de6655b2",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b4f22c35f5a3802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d784c98cb3a0b6",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a610a8c813003e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313e201ed2ba0ef3",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b72fd6025cf4d7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08ddcf73ee0c95f",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "266c0c975952c1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b1993961bd57aee",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-comments:Show Comments Panel": false
+    }
+  },
+  "active": "a2f36eb620d929de",
+  "lastOpenFiles": [
+    "Figure_1.png",
+    "日志markdown/0406工作日志.md",
+    "日志markdown/0408工作日志.md",
+    "日志markdown/0329工作日志.md",
+    "日志markdown/0330工作日志.md",
+    "日志markdown/0402工作日志.md",
+    "日志markdown/0404工作日志.md",
+    "未命名.md",
+    "日志markdown/0405工作日志.md",
+    "picture/1680703890338.png",
+    "picture/Pasted image 20230405220518.png",
+    "picture/XWB]%L8J6[@~9PV2A)(B{42.png",
+    "picture/Pasted image 20230405203844.png",
+    "picture/Pasted image 20230404011144.png",
+    "日志markdown/0403工作日志.md",
+    "picture/Pasted image 20230405000621.png",
+    "picture/Pasted image 20230405000533.png",
+    "picture/Pasted image 20230404011024.png",
+    "picture/Pasted image 20230404010214.png",
+    "日志pdf/0403工作日志.pdf",
+    "picture/微信图片_20230403222145.png",
+    "presentation/XAI：Kernel SHAP & Morris.md",
+    "literature/Explainable artificial intelligence_an analytical review.pdf",
+    "日志markdown/0331工作日志.md",
+    "literature/A survey on neural network interpretability.pdf",
+    "literature/Explainable AI_A Review of Machine Learning.pdf",
+    "日志markdown/0401工作日志.md",
+    "未命名.canvas",
+    "literature",
+    "picture/Comments_example.mp4",
+    "1121工作日志.md",
+    "1118工作日志.md",
+    "1117工作日志.md",
+    "1116工作日志.pdf",
+    "1115工作日志.pdf",
+    "Presentation 1112/Mixed frequent data.md",
+    "Presentation1103.md",
+    "1103工作日志.md",
+    "1110工作日志.md"
+  ]
+}

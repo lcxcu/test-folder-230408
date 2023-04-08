@@ -1,0 +1,16 @@
+{
+  "delay": 500,
+  "key": "Shift",
+  "shortcuts": [
+    {
+      "command": "cmenu-plugin:editor:toggle-comments",
+      "key": "/",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "editor:insert-tag",
+      "key": "q",
+      "lastKeyUpTime": 0
+    }
+  ]
+}
